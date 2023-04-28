@@ -1,0 +1,2 @@
+- Câu 1: API Spesification là gì?
+- API specification là một thuật ngữ thường được sử dụng thay thế lẫn nhau với API definition.
